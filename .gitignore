@@ -1,3 +1,9 @@
+.DS_Store
+saved_*/
+test_*/
+train_*/
+test.csv
+train.csv
 .idea/
 # Byte-compiled / optimized / DLL files
 __pycache__/
